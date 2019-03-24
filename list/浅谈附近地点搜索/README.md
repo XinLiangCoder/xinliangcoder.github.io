@@ -10,7 +10,3 @@
 
 - [附近地点搜索初探](http://charlee.li/location-search.html)
 - [根据经纬度实现附近点的查询](http://blog.sina.com.cn/s/blog_62ba0fdd0100tul4.html)
-
-微信名称：IT小圈儿，微信号：ToFeelings。
-
-![IT小圈儿](https://ntaste.github.io/image/qr.jpg)
